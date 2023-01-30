@@ -1,0 +1,15 @@
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\bin\Debug\net7.0\Cursos e testes.exe
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\bin\Debug\net7.0\Cursos e testes.deps.json
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\bin\Debug\net7.0\Cursos e testes.runtimeconfig.json
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\bin\Debug\net7.0\Cursos e testes.dll
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\bin\Debug\net7.0\Cursos e testes.pdb
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.csproj.AssemblyReference.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.AssemblyInfoInputs.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.AssemblyInfo.cs
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.csproj.CoreCompileInputs.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.dll
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\refint\Cursos e testes.dll
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.pdb
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\Cursos e testes.genruntimeconfig.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\obj\Debug\net7.0\ref\Cursos e testes.dll
