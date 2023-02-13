@@ -1,0 +1,8 @@
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.csproj.AssemblyReference.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.AssemblyInfo.cs
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.RazorAssemblyInfo.cache
+C:\Users\crrob\OneDrive\Área de Trabalho\Cursos e testes\Produtos\obj\Debug\net7.0\Produtos.RazorAssemblyInfo.cs

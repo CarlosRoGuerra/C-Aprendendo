@@ -1,0 +1,51 @@
+{
+  "SerializedFilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\obj\\Debug\\net7.0.102\\project.razor.json",
+  "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\todo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "todo",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\Shared\\_Form.cshtml",
+      "TargetPath": "Views\\Shared\\_Form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\crrob\\OneDrive\\Área de Trabalho\\Cursos e testes\\tela2\\Todo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
